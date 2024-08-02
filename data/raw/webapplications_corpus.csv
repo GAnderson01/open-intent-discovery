@@ -1,0 +1,90 @@
+id,text,intent
+0,Alternative to Facebook,Find Alternative
+1,How do I delete my Facebook account?,Delete Account
+2,Are there any good Pandora alternatives with general availability outside the US?,Find Alternative
+3,Is it possible to export my data from Trello to back it up?,Export Data
+4,Is there an online alternative to iGoogle,Find Alternative
+5,How can I remove myself from a Trello organization?,Delete Account
+6,How do I transfer my photos from Flickr to Picasa?,Export Data
+7,How do I sync Google Calendar with my Outlook Calendar?,Sync Accounts
+8,Archive/export all the blog entries from a RSS feed in Google Reader,Export Data
+9,How can I delete my 160by2 account?,Delete Account
+10,How can I permanently delete my Yahoo mail account?,Delete Account
+11,Deleting an account(website) from Google Analytics?,Delete Account
+12,How to delete my imgur account?,Delete Account
+13,How to change my Uber password or delete the account?,Delete Account
+14,How to delete a Sify Mail account,Delete Account
+15,How to permanently delete a 37signals ID,Delete Account
+16,How can I delete my Hunch account?,Delete Account
+17,Any alternatives to Google Apps for your domain?,Find Alternative
+18,Evernote alternative,Find Alternative
+19,Alternatives to LibraryThing,Find Alternative
+20,What are the alternatives to Facebook/Meetup for Event Planning,Find Alternative
+21,Is there a free and privacy-aware alternative to Google?,Find Alternative
+22,What alternatives to Google Product Search exist?,Find Alternative
+23,Photo Sharing Site (alternative to flickr) supporting OpenID sign in?,Find Alternative
+24,Any good alternative to Google Alerts?,Find Alternative
+25,Good wireframing apps?,None
+26,Is there a HTML alternative to Prezi?,Find Alternative
+27,Any alternatives to Google Streetview?,Find Alternative
+28,Zencoder alternatives?,Find Alternative
+29,Alternatives to discontinued Google Calendar Appointment Slots,Find Alternative
+30,Q&A Platform similar to Stack Exchange model?,Find Alternative
+31,Can I Share/Sync My Picasa Web Albums Automatically to My Facebook Account?,Sync Accounts
+32,Sync not export Facebook events with Google Apps calendar,Sync Accounts
+33,How do I sync Facebook Twitter & Foursquare?,Sync Accounts
+34,Google Calendar not syncing calendars that have been added by URL with Windows 10 Calendar,Sync Accounts
+35,Google Contact Synchronization on the iPhone 3G,Sync Accounts
+36,Gmail user set up through Google Apps can't change their password,Change Password
+37,How do I change my password on ebay?,Change Password
+38,Gmail recover password while logged in Iphone,Change Password
+39,How to retrieve forgotten Wordpress Admin password,Change Password
+40,How to retrieve a stolen Yahoo account's password?,Change Password
+41,Users can't reset their passwords anymore on Google Apps?,Change Password
+42,Does moving a mail to the IMAP spam folder trains Gmail's spam filter?,Filter Spam
+43,How can I auto-delete some spam from Gmail?,Filter Spam
+44,When I move spam to my inbox it goes back into the spam again,Filter Spam
+45,How to send messages to spam in Gmail filter?,Filter Spam
+46,How do I disable the spam filter in Gmail?,Filter Spam
+47,How to check your Gmail spam label for good emails,Filter Spam
+48,"Mark large numbers of messages as ""not spam""",Filter Spam
+49,What are alternatives to Postini for spam filtering?,Filter Spam
+50,How to remove spam filter for Google Apps email,Filter Spam
+51,Does marking an email as spam in Gmail affect the filter for everyone?,Filter Spam
+52,How can I prevent/lessen event spam on Facebook?,Filter Spam
+53,Do emails auto-forwarded from one Gmail account to another stop if marked as spam?,Filter Spam
+54,Gmail's filter for SPAM folder and/or keywords in multiple fields,Filter Spam
+55,Get rid of Russian junk from my Gmail,Filter Spam
+56,Embedding stop time in a YouTube video link,None
+57,Is there a catch to PayPal's Premier account type?,None
+58,How can I get OkCupid search to show only matches within 5 miles of me?,None
+59,How do I download a YouTube video?,Download Video
+60,How do I change my password on TV Tropes?,Change Password
+61,Why can't I change my password and login with Skype?,Change Password
+62,Change subject line in new Gmail compose window,None
+63,Email Google Form daily?,None
+64,How can I export track.scrobble data from last.fm?,Export Data
+65,How can I backup my wordpress.com hosted blog?,Export Data
+66,How can I sync my Yahoo! Calendar with Google Calendar?,Sync Accounts
+67,Google Bookmarks and Chrome Bookmark Sync -- Different?,Sync Accounts
+68,How do I sync my RunKeeper workout schedule with Google Calender?,Sync Accounts
+69,"Does using Gmail's ""Never send it to Spam"" filter mean I can't train their spam filter?",Filter Spam
+70,Correctly Identifying Spam Messages,Filter Spam
+71,Twitter and Echofon spam,Filter Spam
+72,Totally Blocking Spam To Gmail Account,Filter Spam
+73,Discarding spam mail faster in Gmail,Filter Spam
+74,Stopping spam emails in Gmail by pattern,Filter Spam
+75,Alternatives for Google Reader (with Android synchronizing),Find Alternative
+76,Bugmenot (registration bypasser) alternative that doesn't suck?,Find Alternative
+77,Alternatives to Twitter,Find Alternative
+78,Google search engine alternatives,Find Alternative
+79,Alternatives to Google Groups with more features?,Find Alternative
+80,Are there any good Veoh or Youtube alternatives?,Find Alternative
+81,Mint alternatives for Canada,Find Alternative
+82,How can I delete my Twitter account?,Delete Account
+83,How do I delete my LinkedIn account?,Delete Account
+84,How do I delete my Gmail account?,Delete Account
+85,How do I delete my Experts Exchange account?,Delete Account
+86,How do I delete my Ohloh profile?,Delete Account
+87,How can I permanently delete my MySpace account?,Delete Account
+88,How to disable/delete a Harvest account?,Delete Account

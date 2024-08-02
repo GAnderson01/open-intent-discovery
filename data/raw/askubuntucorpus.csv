@@ -1,0 +1,163 @@
+id,intent,text
+0,Software Recommendation,What software can I use to view epub documents?
+1,Software Recommendation,Which PDF Viewer would you recommend?
+2,Software Recommendation,What IDEs are available for Ubuntu?
+3,Software Recommendation,What's the best Mind Mapping Software?
+4,Software Recommendation,Software to read a QR code?
+5,Software Recommendation,PDF to word conversion software?
+6,Software Recommendation,Is there software that can view .dwg files?
+7,Software Recommendation,What are some good PHP editors?
+8,Software Recommendation,Is there a software utility to adjust screen gamma/brightness/contrast?
+9,Software Recommendation,Please recommend a hex editor for shell
+10,Software Recommendation,Is there LAN topology mapping software available in Ubuntu?
+11,Software Recommendation,Is there a tool like wifi analyzer for ubuntu?
+12,Software Recommendation,Tool for recovering deleted data from a flash drive
+13,Software Recommendation,"What's a simple ""colour picker"" app for GNOME?"
+14,Software Recommendation,Any app that tells me to take regular breaks from working?
+15,Software Recommendation,What are some good ASCII art generators?
+16,Software Recommendation,What are some good GUI binary viewers/editors?
+17,Software Recommendation,Which is the best PDF metadata viewer for Ubuntu?
+18,Software Recommendation,Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)
+19,Software Recommendation,Which application do you recommend for watching TV (DVB)?
+20,Software Recommendation,What Is The Best HDR Software?
+21,Software Recommendation,What do you use to edit Microsoft Word documents (docx)?
+22,Software Recommendation,What's the best Wireframing tool?
+23,Software Recommendation,Is there any software that will do face recognition in photos?
+24,Software Recommendation,Applications to replace iTunes for iPod synchronization?
+25,Software Recommendation,Is there an SSH connection manager?
+26,Software Recommendation,A light alternative to gnome-system-monitor?
+27,Software Recommendation,Software to create a video slideshow?
+28,Software Recommendation,Is there a project management software for Ubuntu like Microsoft Project?
+29,Software Recommendation,Is there any recovery software available for ext4?
+30,Software Recommendation,What blog editor software are available?
+31,Software Recommendation,Can you recommend a good modern GUI download manager (wget wrapper?)
+32,Software Recommendation,Is there any program for fuzzy string matching which provides a match score?
+33,Software Recommendation,Are there any hardware diagnostic tools?
+34,Software Recommendation,Recommendation for Regex editor?
+35,None,Is there a Document scanning and archiving software?
+36,Shutdown Computer,Keyboard shortcut to shutdown?
+37,Shutdown Computer,My system doesn't go shutdown
+38,Shutdown Computer,How to troubleshoot slow shutdown?
+39,Shutdown Computer,How can I shutdown the computer when a certain process ends?
+40,Shutdown Computer,Ubuntu Shut down app
+41,Shutdown Computer,What does my computer do when I click 'Shut Down'?
+42,Shutdown Computer,How do I shut down without the confirmation prompt?
+43,Shutdown Computer,No action when shutdown pressed
+44,Shutdown Computer,what is the right way to shutdown ubuntu using the command line?
+45,Shutdown Computer,How can I make shutdown not require admin password?
+46,Shutdown Computer,shutdown in specific way if no-one uses computer
+47,Shutdown Computer,What is the command to open the shutdown dialog?
+48,Shutdown Computer,How to Shut down Ubuntu by using keyboard?
+49,Shutdown Computer,shutdown 5:30pm every day
+50,Make Update,Upgrading from 11.10 to 12.04
+51,Make Update,How do I upgrade to the release version of 16.04 if I am running Beta?
+52,Make Update,Doubts regarding the 15.04 upgrade (is it inevitable and unavoidable?)
+53,Make Update,Is any offline upgrade from 13.10 to 14.04 possible?
+54,Make Update,Upgrading from ubuntu 12.04 to 13.10
+55,Make Update,Ubuntu upgrade failed
+56,Make Update,Upgrading from 12.04 to 13.10 ( Unanswered questions )
+57,Make Update,upgrading to Ubuntu 13.10 from Ubuntu 13.04
+58,Software Recommendation,Is it recommended to upgrade to Lubuntu 15.04?
+59,Make Update,Force upgrade 12.10 to 13.04
+60,Make Update,How to partially upgrade Ubuntu 11.10 from Ubuntu 11.04?
+61,Make Update,Problem upgrading Ubuntu 9.10
+62,Make Update,Is it necessary to upgrade to 15.10 from 14.04?
+63,Make Update,How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS?
+64,Make Update,Why did the upgrade from 11.10 to 12.04 ruin my system?
+65,Make Update,Problems upgrading from 12.04 to 14.04
+66,Make Update,Problems upgrading Ubuntu 12.10 to 13.04
+67,Make Update,Upgrade from 12.04 to 12.10 without losing files?
+68,Software Recommendation,On really old Ubuntu 6.06 - How to upgrade
+69,Make Update,Do I need to uninstall 10.04 to upgrade to 12.04?
+70,Make Update,Do I need to reinstall everything to upgrade from 13.10 to 14.10?
+71,Make Update,update-manager: upgrade to 15.04 rather than 16.04
+72,Make Update,Upgrading 16.04 to 16.04.1
+73,Make Update,Upgrading Ubuntu Server 9.10 to 10.04
+74,Make Update,Ho do I update to 13.04 from the beta?
+75,Make Update,How to upgrade from 12.10 to 14.04
+76,Make Update,Upgrading from 10.10 to 11.04 how much space is needed?
+77,Make Update,Do I need to backup my 12.04 system to upgrade to 12.04.1?
+78,Make Update,Cannot upgrade from 12.04LTS to 14.04
+79,Make Update,Upgrade 10.10 to 11.04
+80,Make Update,How to upgrade from 14.04 LTS or 15.10 to 16.04 from terminal
+81,Make Update,How to upgrade from 16.04 LTS to 16.04.1 LTS
+82,Make Update,Upgrading from 10.04 to 11.10
+83,Make Update,How can i upgrade to Ubuntu 14.04 final from 14.04 Beta correctly?
+84,Make Update,Is there an upgrade procedure from 12.04 LTS to 14.04 LTS
+85,Make Update,Upgrade from 9.10 to 11.04
+86,Make Update,How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7?
+87,Software Recommendation,Wubi Device /dev/loop0 full. How to get more space?
+88,Make Update,Using 12.04 can I compile packages with gcc for 10.04?
+89,Software Recommendation,Removing Recently used items in 12.04
+90,Make Update,Upgrading From 11.04 (32bit) to 12.04 (64bit)
+91,None,How is rm command different from the delete button?
+92,Software Recommendation,In Unity how do I see the details of a given launcher?
+93,None,How to provide user permission to read and write on /dev/sdax? What is the syntax?
+94,None,Security enhancements prevent mounting /dev/sdb1
+95,None,How do I show grub when resuming from suspend?
+96,Setup Printer,How to install a Lexmark z600 series printer?
+97,Setup Printer,Cannot setup HP All in one DJ3630
+98,Setup Printer,How to add a network printer on Ubuntu 15.10?
+99,Setup Printer,Cannot install printer driver epson l210
+100,Setup Printer,How do I install Dell 2150cdn printer
+101,Setup Printer,Installing Epson XP-424 wireless printer
+102,Setup Printer,Installing EPSON L355 on Ubuntu 14.04
+103,Setup Printer,How do I install the HP F4280 printer?
+104,Setup Printer,How to Install Brother DCP-8110DN Laser Printer on Ubuntu?
+105,Setup Printer,How to Install a Canon MF8040Cn Printer on Ubuntu 12.04
+106,Setup Printer,How Do I Install Canon MF8000C Printer in Ubuntu 15.10?
+107,Setup Printer,How to install Canon LBP330 in Lts 16.04
+108,Setup Printer,Install printer Lexmark X4690 (ubuntu 12.04)
+109,None,How to record my screen?
+110,None,How can I highlight or annotate PDFs?
+111,Make Update,Is it worth upgrading from 12.04 LTS to 13.04
+112,Make Update,Upgrade to 12.04 64 bit
+113,Make Update,How to upgrade Ubuntu 14.04.1 to 14.04.2?
+114,Make Update,Upgrading from Ubuntu 14.04 to 15.04
+115,Make Update,how to upgrade from ubuntu 15.04 to 15.10?
+116,Make Update,Upgrade 12.04 to 12.10 using startup disk
+117,Make Update,How to Upgrade from 11.10 to 12.04 when you've got a problem?
+118,Make Update,Update 11.04 to 12.04 with LiveCD
+119,Make Update,How to upgrade Ubuntu 9.10 to 12.10 via terminal?
+120,Make Update,How to upgrade from Ubuntu 10.10 to 11.04?
+121,Setup Printer,No matter what I do Ubuntu 15.04 does not recognize HP LaserJet 1020
+122,Setup Printer,How to setup HP printer/scanner on ubuntu?
+123,Setup Printer,How do I setup my HP C4140 printer wirelessly?
+124,Setup Printer,How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?
+125,Setup Printer,How can I install a Pantum 2502W laser printer on Ubuntu
+126,Setup Printer,Install Canon MP560 Ubuntu 15.04
+127,Setup Printer,How to install a Brother MFC-5890CN network printer?
+128,Setup Printer,How do I install drivers for a Konica Minolta 200?
+129,Setup Printer,How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?
+130,Setup Printer,How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work
+131,Software Recommendation,Any command line calculator for Ubuntu?
+132,Software Recommendation,Extracting embedded images from a PDF
+133,Software Recommendation,What to use to quickly cut Audio/Video
+134,None,Torrent client for the command-line?
+135,Software Recommendation,MySQL GUI Tools
+136,Software Recommendation,What developer text editors are available for Ubuntu?
+137,Software Recommendation,What screenshot tools are available?
+138,Software Recommendation,Which programs can I use to edit PDF files?
+139,Software Recommendation,Is there a lightweight tool to crop images quickly?
+140,Software Recommendation,What IRC clients are available?
+141,Software Recommendation,What new games are available for Ubuntu in 2011?
+142,Software Recommendation,UPNP / DLNA (client) player recommendations?
+143,Software Recommendation,What scientific plotting software is available?
+144,Software Recommendation,Can you recommend a password generator?
+145,Software Recommendation,What tools do you use to monitor a web server?
+146,Software Recommendation,What is a good MongoDB GUI client?
+147,Software Recommendation,Password Management Applications?
+148,Software Recommendation,Is there an application for reading mobi files?
+149,Shutdown Computer,shut down without extra question
+150,Shutdown Computer,How to shutdown computer when users are logged on?
+151,Shutdown Computer,What is the proper terminal-way to shutdown?
+152,Shutdown Computer,How can I automatically shutdown the system after a specific time?
+153,Shutdown Computer,Hotkey to shut down from login screen?
+154,Shutdown Computer,How to shutdown the computer after Xsession ends?
+155,Shutdown Computer,How can one shutdown a PC using the keyboard?
+156,Shutdown Computer,How can I enable shutdown verbosity?
+157,Shutdown Computer,Are there any Keyboard Shortcuts to Shutdown?
+158,Shutdown Computer,Shutdown after a certain time
+159,Shutdown Computer,Shutdown problem in Ubuntu 16.04
+160,Shutdown Computer,How do I fix a shutdown problem?
+161,Shutdown Computer,What graphical utility can I use for Ubuntu auto shutdown?
